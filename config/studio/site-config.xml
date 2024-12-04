@@ -73,7 +73,7 @@
     </cdata-escaped-field-patterns>
     
     <published-repository>
-        <enable-staging-environment>false</enable-staging-environment>
+        <enable-staging-environment>true</enable-staging-environment>
     </published-repository>
 
     <publishing>
