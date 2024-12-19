@@ -23,8 +23,16 @@
 	<header_o item-list="true"/>
 	<left_rail_o item-list="true"/>
 	<disabled>false</disabled>
-	<files_o item-list="true">	<item datasource="filesDS">	<key>/static-assets/files/coffee-pic.jpg</key>
-	<value>/static-assets/files/coffee-pic.jpg</value>
-	<fileType_smv>jpg</fileType_smv>
-	</item></files_o>
+	<files_o item-list="true">
+		<item datasource="filesDS">
+			<key>/static-assets/files/test1.txt</key>
+			<value>/static-assets/files/test1.txt</value>
+			<fileType_smv>txt</fileType_smv>
+		</item>
+		<item datasource="filesDS">
+			<key>/static-assets/files/test2.txt</key>
+			<value>/static-assets/files/test2.txt</value>
+			<fileType_smv>txt</fileType_smv>
+		</item>
+	</files_o>
 </page>
