@@ -1,278 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <page>
-    <content-type>/page/category-landing</content-type>
-    <display-template>/templates/web/pages/category-landing.ftl</display-template>
-    <no-template-required/>
-    <merge-strategy>inherit-levels</merge-strategy>
-    <objectGroupId>49c9</objectGroupId>
-    <objectId>49c9c85d-5349-158a-3001-a5d66f3ce168</objectId>
-    <file-name>index.xml</file-name>
-    <folder-name>technology</folder-name>
-    <placeInNav>true</placeInNav>
-    <navLabel>Technology</navLabel>
-    <orderDefault_f>11000</orderDefault_f>
-    <internal-name>Technology</internal-name>
-    <title_t>Technology</title_t>
-    <createdDate>2017-03-14T15:24:15.000Z</createdDate>
-    <createdDate_dt>2017-03-14T15:24:15.000Z</createdDate_dt>
-    <lastModifiedDate>2024-12-19T18:39:34.262Z</lastModifiedDate>
-    <lastModifiedDate_dt>2024-12-19T18:39:34.262Z</lastModifiedDate_dt>
-    <category_s>technology</category_s>
-    <max_articles_i>10</max_articles_i>
-    <articles_title_t>Technology</articles_title_t>
-    <header_o item-list="true"/>
-    <left_rail_o item-list="true"/>
-    <disabled>false</disabled>
-    <files_o item-list="true">
-        <item datasource="filesDS">
-            <key>/static-assets/files/test1.txt</key>
-            <value>/static-assets/files/test1.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test2.txt</key>
-            <value>/static-assets/files/test2.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test3.txt</key>
-            <value>/static-assets/files/test3.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test4.txt</key>
-            <value>/static-assets/files/test4.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test5.txt</key>
-            <value>/static-assets/files/test5.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test6.txt</key>
-            <value>/static-assets/files/test6.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test7.txt</key>
-            <value>/static-assets/files/test7.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test8.txt</key>
-            <value>/static-assets/files/test8.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test9.txt</key>
-            <value>/static-assets/files/test9.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test10.txt</key>
-            <value>/static-assets/files/test10.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test11.txt</key>
-            <value>/static-assets/files/test11.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test12.txt</key>
-            <value>/static-assets/files/test12.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test13.txt</key>
-            <value>/static-assets/files/test13.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test14.txt</key>
-            <value>/static-assets/files/test14.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test15.txt</key>
-            <value>/static-assets/files/test15.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test16.txt</key>
-            <value>/static-assets/files/test16.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test17.txt</key>
-            <value>/static-assets/files/test17.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test18.txt</key>
-            <value>/static-assets/files/test18.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test19.txt</key>
-            <value>/static-assets/files/test19.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test20.txt</key>
-            <value>/static-assets/files/test20.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test21.txt</key>
-            <value>/static-assets/files/test21.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test22.txt</key>
-            <value>/static-assets/files/test22.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test23.txt</key>
-            <value>/static-assets/files/test23.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test24.txt</key>
-            <value>/static-assets/files/test24.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test25.txt</key>
-            <value>/static-assets/files/test25.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test26.txt</key>
-            <value>/static-assets/files/test26.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test27.txt</key>
-            <value>/static-assets/files/test27.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test28.txt</key>
-            <value>/static-assets/files/test28.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test29.txt</key>
-            <value>/static-assets/files/test29.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test30.txt</key>
-            <value>/static-assets/files/test30.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test31.txt</key>
-            <value>/static-assets/files/test31.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test32.txt</key>
-            <value>/static-assets/files/test32.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test33.txt</key>
-            <value>/static-assets/files/test33.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test34.txt</key>
-            <value>/static-assets/files/test34.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test35.txt</key>
-            <value>/static-assets/files/test35.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test36.txt</key>
-            <value>/static-assets/files/test36.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test37.txt</key>
-            <value>/static-assets/files/test37.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test38.txt</key>
-            <value>/static-assets/files/test38.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test39.txt</key>
-            <value>/static-assets/files/test39.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test40.txt</key>
-            <value>/static-assets/files/test40.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test41.txt</key>
-            <value>/static-assets/files/test41.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test42.txt</key>
-            <value>/static-assets/files/test42.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test43.txt</key>
-            <value>/static-assets/files/test43.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test44.txt</key>
-            <value>/static-assets/files/test44.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test45.txt</key>
-            <value>/static-assets/files/test45.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test46.txt</key>
-            <value>/static-assets/files/test46.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test47.txt</key>
-            <value>/static-assets/files/test47.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test48.txt</key>
-            <value>/static-assets/files/test48.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test49.txt</key>
-            <value>/static-assets/files/test49.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-        <item datasource="filesDS">
-            <key>/static-assets/files/test50.txt</key>
-            <value>/static-assets/files/test50.txt</value>
-            <fileType_smv>txt</fileType_smv>
-        </item>
-    </files_o>
+	<content-type>/page/category-landing</content-type>
+	<display-template>/templates/web/pages/category-landing.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>49c9</objectGroupId>
+	<objectId>49c9c85d-5349-158a-3001-a5d66f3ce168</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>technology</folder-name>
+	<placeInNav>true</placeInNav>
+	<navLabel>Technology</navLabel>
+	<orderDefault_f>11000</orderDefault_f>
+	<internal-name>Technology</internal-name>
+	<title_t>Technology</title_t>
+	<createdDate>2017-03-14T15:24:15.000Z</createdDate>
+	<createdDate_dt>2017-03-14T15:24:15.000Z</createdDate_dt>
+	<lastModifiedDate>2024-12-19T20:22:14.110Z</lastModifiedDate>
+	<lastModifiedDate_dt>2024-12-19T20:22:14.110Z</lastModifiedDate_dt>
+	<category_s>technology</category_s>
+	<max_articles_i>10</max_articles_i>
+	<articles_title_t>Technology</articles_title_t>
+	<header_o item-list="true"/>
+	<left_rail_o item-list="true"/>
+	<disabled>false</disabled>
+	<files_o item-list="true">	<item datasource="filesDS">	<key>/static-assets/files/test1.txt</key>
+	<value>/static-assets/files/test1.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test2.txt</key>
+	<value>/static-assets/files/test2.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test3.txt</key>
+	<value>/static-assets/files/test3.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test4.txt</key>
+	<value>/static-assets/files/test4.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test5.txt</key>
+	<value>/static-assets/files/test5.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test6.txt</key>
+	<value>/static-assets/files/test6.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test7.txt</key>
+	<value>/static-assets/files/test7.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test8.txt</key>
+	<value>/static-assets/files/test8.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test9.txt</key>
+	<value>/static-assets/files/test9.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test10.txt</key>
+	<value>/static-assets/files/test10.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test11.txt</key>
+	<value>/static-assets/files/test11.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test12.txt</key>
+	<value>/static-assets/files/test12.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test13.txt</key>
+	<value>/static-assets/files/test13.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test14.txt</key>
+	<value>/static-assets/files/test14.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test15.txt</key>
+	<value>/static-assets/files/test15.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test16.txt</key>
+	<value>/static-assets/files/test16.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test17.txt</key>
+	<value>/static-assets/files/test17.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test18.txt</key>
+	<value>/static-assets/files/test18.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test19.txt</key>
+	<value>/static-assets/files/test19.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test20.txt</key>
+	<value>/static-assets/files/test20.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test21.txt</key>
+	<value>/static-assets/files/test21.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test22.txt</key>
+	<value>/static-assets/files/test22.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test23.txt</key>
+	<value>/static-assets/files/test23.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test24.txt</key>
+	<value>/static-assets/files/test24.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test25.txt</key>
+	<value>/static-assets/files/test25.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test26.txt</key>
+	<value>/static-assets/files/test26.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test27.txt</key>
+	<value>/static-assets/files/test27.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test28.txt</key>
+	<value>/static-assets/files/test28.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test29.txt</key>
+	<value>/static-assets/files/test29.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test30.txt</key>
+	<value>/static-assets/files/test30.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test31.txt</key>
+	<value>/static-assets/files/test31.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test32.txt</key>
+	<value>/static-assets/files/test32.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test33.txt</key>
+	<value>/static-assets/files/test33.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test34.txt</key>
+	<value>/static-assets/files/test34.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test35.txt</key>
+	<value>/static-assets/files/test35.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test36.txt</key>
+	<value>/static-assets/files/test36.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test37.txt</key>
+	<value>/static-assets/files/test37.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test38.txt</key>
+	<value>/static-assets/files/test38.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test39.txt</key>
+	<value>/static-assets/files/test39.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test40.txt</key>
+	<value>/static-assets/files/test40.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test41.txt</key>
+	<value>/static-assets/files/test41.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test42.txt</key>
+	<value>/static-assets/files/test42.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test43.txt</key>
+	<value>/static-assets/files/test43.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test44.txt</key>
+	<value>/static-assets/files/test44.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test45.txt</key>
+	<value>/static-assets/files/test45.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test46.txt</key>
+	<value>/static-assets/files/test46.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test47.txt</key>
+	<value>/static-assets/files/test47.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test48.txt</key>
+	<value>/static-assets/files/test48.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test49.txt</key>
+	<value>/static-assets/files/test49.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item>	<item datasource="filesDS">	<key>/static-assets/files/test50.txt</key>
+	<value>/static-assets/files/test50.txt</value>
+	<fileType_smv>txt</fileType_smv>
+	</item></files_o>
 </page>
